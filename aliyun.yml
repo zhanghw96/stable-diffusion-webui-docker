@@ -9,7 +9,7 @@ services:
       service:
         name: serverless-devs-application
       function:
-        name: stable-diffusion-webui-docker-k1t3
+        name: stable-diffusion-webui-docker-ylze
         description: Initialize
         runtime: custom.debian10
         environmentVariables:
